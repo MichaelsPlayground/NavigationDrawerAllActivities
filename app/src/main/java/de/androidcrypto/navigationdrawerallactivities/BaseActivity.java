@@ -55,7 +55,10 @@ com.google.android.material.bottomnavigation.BottomNavigationView
 androidx.core.view.ViewPager
 androidx.viewpager.widget.ViewPager
 
-importandroidx.core.widget.DrawerLayout
+android.support.v4.widget.DrawerLayout
+androidx.drawerlayout.widget.DrawerLayout
+
+androidx.core.widget.DrawerLayout
 androidx.drawerlayout.widget.DrawerLayout
 
 androidx.appcompat.widget.RecyclerView
